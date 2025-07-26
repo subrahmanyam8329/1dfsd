@@ -1,0 +1,22 @@
+{
+  "name": "node-url-parser",
+  "version": "1.0.0",
+  "description": "A simple Node.js HTTP server to parse and display URL components in HTML or JSON format.",
+  "main": "urlParse.js",
+  "scripts": {
+    "start": "node urlParse.js",
+    "dev": "node urlParse.js"
+  },
+  "keywords": [
+    "node.js",
+    "http",
+    "url",
+    "parser",
+    "web server",
+    "json",
+    "html"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "ISC",
+  "dependencies": {}
+}
